@@ -62,7 +62,7 @@ I'm passionate about technologies and love to learn new things.
   </a> 
 </p>
 
-## Devices / Manufacturers
+### Devices / Manufacturers
 <p align="left">
   <a href="#">
     <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
@@ -71,13 +71,13 @@ I'm passionate about technologies and love to learn new things.
 
 ---
 
-## 📊My Github Stats
+## 📈My Github Stats
 <p align="left">
-  <a href="https://github.com/oijkn/oijkn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oijkn&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=oijkn&theme=dark&show_icons=true" />
   </a>
-  <a href="https://github.com/oijkn/oijkn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oijkn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oijkn&theme=dark&layout=compact" />
   </a>
 </p>
 <!--
@@ -90,6 +90,11 @@ For future use
 </a>
 -->
 
+---
+
+## 🔢Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{oijkn}/count.svg)
 
 <!--
 **oijkn/oijkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
