@@ -1,4 +1,4 @@
-# Hey, I am Oijkn! Great to see you here! <img src="https://raw.githubusercontent.com/oijkn/oijkn/master/src/wave.gif" width="30px">
+# Hey, I am Oijkn! Great to see you here! <img src="https://raw.githubusercontent.com/oijkn/oijkn/master/src/wave.gif" width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/oijkn/oijkn/master/src/header_.png">
 
