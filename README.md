@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/oijkn/oijkn/master/src/header_.png">
 
-I am a DevOps Engineer and always open to collaborating on projects and innovative/disruptive ideas. I'm passionate about technologies and love to learn new things.
+I'm always open to collaborating on projects and innovative/disruptive ideas. I'm passionate about technologies and love to learn new things.
 
 Find out more about me & feel free to connect with me here:
 
