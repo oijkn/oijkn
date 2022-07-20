@@ -4,7 +4,6 @@
 
 I'm always open to collaborating on projects and innovative/disruptive ideas. I'm passionate about technologies and love to learn new things.
 
-Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://hub.docker.com/u/oijkn">
