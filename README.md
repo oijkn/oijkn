@@ -7,9 +7,6 @@ I'm always open to collaborating on projects and innovative/disruptive ideas. I'
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrepompas">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
 	<a href="https://hub.docker.com/u/oijkn">
 		<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 	</a>
